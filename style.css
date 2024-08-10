@@ -163,13 +163,13 @@ html, body {
     transition: all ease 0.6s;
   }
   #card1 {
-    background-image: url(image4.jpeg)
+    background-image: url(Images\image4.jpeg.jpg)
   }
   #card2 {
-    background-image: url(image5.jpeg);
+    background-image: url(Images\image5.jpeg.jpg);
   }
   #card3 {
-    background-image: url(image6.jpg);
+    background-image: url(Images\image6.jpg);
   }
   .overlay {
     height: 100%;
